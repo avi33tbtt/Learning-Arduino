@@ -1,2 +1,2 @@
 # Learning-IOT
-Arduino course for TheSciFiMed Interns
+IOT ( Internet of Things ) course for TheSciFiMed Interns
